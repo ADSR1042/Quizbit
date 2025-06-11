@@ -1,0 +1,12 @@
+[
+    {
+        "value": "example_1",
+        "label": "example_label_1",
+        "children": [
+            {
+                "value": 0,
+                "label": "example"
+            }
+        ]
+    }
+]
